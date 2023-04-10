@@ -1,0 +1,3 @@
+5.(a) (ii) k is a pointer to a pointer to a pointer to a pointer to a char
+
+(b)(iii)6
